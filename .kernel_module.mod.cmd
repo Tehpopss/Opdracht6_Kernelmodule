@@ -1,0 +1,1 @@
+cmd_/home/pi/Embedded2/Opdracht6_Kernelmodule/kernel_module.mod := { echo  /home/pi/Embedded2/Opdracht6_Kernelmodule/kernel_module.o;  echo; } > /home/pi/Embedded2/Opdracht6_Kernelmodule/kernel_module.mod

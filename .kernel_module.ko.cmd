@@ -1,0 +1,1 @@
+cmd_/home/pi/Embedded2/Opdracht6_Kernelmodule/kernel_module.ko := ld -r  -EL  --build-id=sha1  -T scripts/module.lds -o /home/pi/Embedded2/Opdracht6_Kernelmodule/kernel_module.ko /home/pi/Embedded2/Opdracht6_Kernelmodule/kernel_module.o /home/pi/Embedded2/Opdracht6_Kernelmodule/kernel_module.mod.o;  true
